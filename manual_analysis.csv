@@ -1,0 +1,508 @@
+start_time,start_minute_decimal,end_minute_decimal,talk_time_minute_decimal,speaker,numbers,numbers_total_count,arguments_total_count,arguments_unique_count,numbers_unique_count,won_count,certified_count,insult_count,compliment_count,threat_count,petty_arguments_count,notes,transcript
+0:00,0,0.63,0.63,Mark Meadows,,,,,,,,,,,,"- Trump's chief of staff
+- Does introductions","Ok. Alright. Mr. President, everyone is on the line. This is Mark Meadows, the chief of staff. Just so we all are aware. On the line is secretary of state, and two other individuals. Jordan and Mr. Germany with him. You also have the attorneys that represent the president, Kurt and Alex and Cleta Mitchell — who is not the attorney of record but has been involved — myself and then the president. So Mr. President, I’ll turn it over to you."
+0:38,0.63,12.85,12.22,Donald Trump,"[
+{""topic"":""rally_size"",""number"":""25-30000"",""type"":""range""},
+{""topic"":""biden_rally_size"",""number"":""100"",""type"":""round""},
+{""topic"":""ballots_added_to_rolls"",""number"":""250-300000"",""type"":""range""},
+{""topic"":""fulton_forged_signatures"",""number"":""hundreds of thousands"",""type"":""rough""},
+{""topic"":""vote_margin"",""number"":""11779"",""type"":""exact""},
+{""topic"":""vote_margin"",""number"":""11779"",""type"":""exact""},
+{""topic"":""ballots_added_to_rolls"",""number"":""hundreds of thousands"",""type"":""rough""},
+{""topic"":""vote_margin"",""number"":""11779"",""type"":""exact""},
+{""topic"":""legitimate_voters_refused_as_already_voted"",""number"":""thousands"",""type"":""rough""},
+{""topic"":""voters_not_on_registration_roll"",""number"":""4502"",""type"":""exact""},
+{""topic"":""voters_not_on_registration_roll"",""number"":""4502"",""type"":""exact""},
+{""topic"":""vacant_address_voters"",""number"":""18325"",""type"":""exact""},
+{""topic"":""vacant_address_voters"",""number"":""18325"",""type"":""exact""},
+{""topic"":""voters_with_only_po_box"",""number"":""904"",""type"":""exact""},
+{""topic"":""state_farm_video"",""number"":""18000"",""type"":""round""},
+{""topic"":""state_farm_video"",""number"":""18000"",""type"":""round""},
+{""topic"":""state_farm_video"",""number"":""18000"",""type"":""round""},
+{""topic"":""out_of_state_voters"",""number"":""4925"",""type"":""exact""},
+{""topic"":""ballots_sent_to_vacant_address"",""number"":""2326"",""type"":""exact""},
+{""topic"":""vote_margin"",""number"":""11779"",""type"":""exact""},
+{""topic"":""congress_seats"",""number"":""15"",""type"":""exact""},
+{""topic"":""congress_seats"",""number"":""16-17"",""type"":""range""},
+{""topic"":""congress_seats"",""number"":""difference of 5"",""type"":""exact""},
+{""topic"":""vote_margin"",""number"":""11779"",""type"":""exact""},
+{""topic"":""dead_voters"",""number"":""5000"",""type"":""round""},
+{""topic"":""dead_voters"",""number"":""5000"",""type"":""round""},
+{""topic"":""ballots_added_to_rolls"",""number"":""300000"",""type"":""round""},
+{""topic"":""fulton_equipment_and_ballot_tampering"",""number"":""3000"",""type"":""round""},
+{""topic"":""vote_margin"",""number"":""11779"",""type"":""exact""},
+{""topic"":""detroit_extra_voters"",""number"":""139"",""type"":""exact""},
+{""topic"":""pennsylvania_extra_voters"",""number"":""200000"",""type"":""round""},
+{""topic"":""michigan_dead_voters"",""number"":""18000"",""type"":""round""},
+{""topic"":""dead_voters"",""number"":""4-5000"",""type"":""range""}
+]",33,18,14,,9,9,,,,,"- Speaks for over 12 minutes solid before being interuppted by Meadows
+ - Arguments (14 unique reasons, 18 total inc. repeats)
+  -- rally_size: rally size bigger than Biden's so must have got more votes too
+  -- ballots_added: 250-300,000 ""ballots dropped into the rolls"" (x2)
+  -- fulton_forged_signatures: ""couple hundred thousand"" forged signatures in Fulton county
+  -- legitimate_voters_refused_as_already_voted: ""in the 50s of thousands"" voters who turned up but weren't allowed to vote due to having already voted (x3)
+  -- voters_not_on_registration_roll: 4,502 voters not on voter registration roll
+  -- vacant_address_voters: 18,325 vacant address voters
+  -- voters_with_only_po_box: 904 voters with only a P.O. box number
+  -- state_farm_video: State Farm Arena video - 18,000 voters associated with [scammer] (name redacted) and a tape shows her and associates stuffing ballot boxes after having building cleared after they said there was a water main leak - video watched in slow motion and magnified to confirm 18k minimum votes stuffed
+  -- out_of_state_voters: 4,925 out of state voters
+  -- ballots_sent_to_vacant_address: 2,326 ballots sent to vacant addresses
+  -- dodgy_dropbox_movements: Issues with dropboxes with 3 days between pickup and dropoff - photos and affidavits as proof (x2)
+  -- judgement_of_experienced_politicians: ""A lot of the political people said there's no way they beat me"" due to sucess in statehouse, congress and senate elections
+  -- dead_voters: Close to 5,000 dead people voted
+  -- fulton_equipment_and_ballot_tampering: Fulton country burning/shreding 3000lbs of ballots and removing/changing equipement in voting machines
+ - ""The current margin is only 11,779. Brad, I think you agree with that, right? That’s something I think everyone [...] agrees on."" - doesn't give any space for Brad to actually agree out loud.
+ - ""I think it was, Brad you would know, it was probably eight hours or seven hours before and then it was stuffed with votes."" - while talking about vote stuffing video with [scammer] - telling Brad he would know how early votes for stuffing where placed in the voting area before it was set up for voting.
+ - ""people deserve to have an accurate count... and there's turmoil"" - pressure that Brad is doing a bad job.
+ - Trump adds credibility by saying specific numbers are from certified accountants. Doesn't explain what certification means.
+ - Trump adds credibility to fraud claims by saying major fraud happening in numerous other places like detroit and pennselvenia having too many people voting, many dead people voting in Michigan.","OK, thank you very much. Hello Brad and Ryan and everybody. We appreciate the time and the call. So we’ve spent a lot of time on this and if we could just go over some of the numbers, I think it’s pretty clear that we won. We won very substantially in Georgia. You even see it by rally size, frankly. We’d be getting 25-30,000 people a rally and the competition would get less than 100 people. And it never made sense.
+
+But we have a number of things. We have at least 2 or 3 — anywhere from 250-300,000 ballots were dropped mysteriously into the rolls. Much of that had to do with Fulton County, which hasn’t been checked. We think that if you check the signatures — a real check of the signatures going back in Fulton County you’ll find at least a couple of hundred thousand of forged signatures of people who have been forged. And we are quite sure that’s going to happen.
+
+Another tremendous number. We’re going to have an accurate number over the next two days with certified accountants. But an accurate number — and that’s people that went to vote and they were told they can’t vote because they’ve already been voted for. And it’s a very sad thing. They walked out complaining. But the number’s large. We’ll have it for you. But it’s much more than the number of 11,779 that’s — The current margin is only 11,779. Brad, I think you agree with that, right? That’s something I think everyone — at least that’s’ a number that everyone agrees on.
+
+But that’s the difference in the votes. But we’ve had hundreds of thousands of ballots that we’re able to actually — we’ll get you a pretty accurate number. You don’t need much of a number because the number that in theory I lost by, the margin would be 11,779. But you also have a substantial numbers of people, thousands and thousands who went to the voting place on November 3, were told they couldn’t vote, were told they couldn’t vote because a ballot had been put on their name. And you know that’s very, very, very, very sad.
+
+We had, I believe it’s about 4,502 voters who voted but who weren’t on the voter registration list, so it’s 4,502 who voted but they weren’t on the voter registration roll which they had to be. You had 18,325 vacant address voters. The address was vacant and they’re not allowed to be counted. That’s 18,325.
+
+Smaller number — you had 904 who only voted where they had just a P.O. — a post office box number — and they had a post office box number and that’s not allowed. We had at least 18,000 — that’s on tape we had them counted very painstakingly — 18,000 voters having to do with [name]. She’s a vote scammer, a professional vote scammer and hustler [name]. That was the tape that’s been shown all over the world that makes everybody look bad, you me and everybody else.
+
+Where they got — number one they said very clearly and it’s been reported they said there was a major water main break. Everybody fled the area. And then they came back, [name] and her daughter and a few people. There were no Republican poll watchers. Actually, there were no Democrat poll watchers, I guess they were them. But there were no Democrats, either and there was no law enforcement. Late in the morning, early in the morning they went to the table with the black robe, the black shield and they pulled out the votes. Those votes were put there a number of hours before the table was put there. I think it was, Brad you would know, it was probably eight hours or seven hours before and then it was stuffed with votes.
+
+They weren’t in an official voter box, but they were in what looked to be suitcases or trunks, suitcases but they weren’t in voter boxes. The minimum number it could be because we watched it and they watched it certified in slow motion instant replay if you can believe it but slow motion and it was magnified many times over and the minimum it was 18,000 ballots, all for Biden.
+
+You had out of state voters. they voted in Georgia but they were from out of state, of 4,925. You had absentee ballots sent to vacant, they were absentee ballots sent to vacant addresses. They had nothing on them about addresses, that’s 2,326.
+
+And you had drop boxes, which is very bad. You had drop boxes that were picked up. We have photographs and we have affidavits from many people.
+
+I don’t know if you saw the hearings, but you have drop boxes where the box was picked up but not delivered for three days. So all sorts of things could have happened to that box including, you know, putting in the votes that you wanted. So there were many infractions and the bottom line is, many, many times the 11,779 margin that they said we lost by — we had vast I mean the state is in turmoil over this.
+
+And I know you would like to get to the bottom of it, although I saw you on television today and you said that you found nothing wrong. I mean, you know, And I didn’t lose the state, Brad. People have been saying that it was the highest vote ever. There was no way. A lot of the political people said that there’s no way they beat me. And they beat me. They beat me in the … As you know, every single state … we won every state. we one every statehouse in the country. We held the Senate which is shocking to people, although we’ll see what happens tomorrow or in a few days.
+
+And we won the House, but we won every single statehouse and we won Congress, which was supposed to lose 15 seats, and they gained, I think 16 or 17 or something. I think there’s a now difference of five. There was supposed to be a difference substantially more. But politicians in every state, but politicians in Georgia have given affidavits or are going to that, that there was no way that they beat me in the election that the people came out, in fact, they were expecting to lose and then they ended up winning by a lot because of the coattails. And they said there’s no way that they’ve done many polls prior to the election. There was no way that they won.
+
+Ballots were dropped in massive numbers. And we’re trying to get to those numbers and we will have them.
+
+They’ll take a period of time. Certified. But but they’re massive numbers. And far greater than the 11,779.
+
+The other thing, dead people. So dead people voted and I think the number is close to 5,000 people. And they went to obituaries. They went to all sorts of methods to come up with an accurate number and a minimum is close to about 5,000 voters.
+
+The bottom line is when you add it all up and then you start adding, you know, 300,000 fake ballots. Then the other thing they said is in Fulton County and other areas. And this may or may not … because this just came up this morning that they are burning their ballots, that they are shredding, shredding ballots and removing equipment. They’re changing the equipment on the Dominion machines and, you know, that’s not legal.
+
+And they supposedly shredded I think they said 300 pounds of, 3,000 pounds of ballots. And that just came to us as a report today. And it is a very sad situation.
+
+But Brad if you took the minimum numbers where many, many times above the 11,779 and many of those numbers are certified, or they will be certified but they are certified. And those are numbers that are there that exist. And that beat the margin of loss, they beat it, I mean by a lot and people should be happy to have an accurate count instead of an election where there’s turmoil.
+
+I mean there’s turmoil in Georgia and other places. You’re not the only one I mean we have other states that I believe will be flipping to us very shortly. And this is something that — You know, as an example, I think it in Detroit, I think there’s a section a good section of your state actually, which we’re not sure so we’re not going to report it yet. But in Detroit, we had, I think it was, 139 percent of the people voted. That’s not too good.
+
+In Pennsylvania, they had well over 200,000 more votes than they had people voting. And uh that doesn’t play too well, and the legislature there is, which is Republican, is extremely activist and angry. I mean, there were other things also that were almost as bad as that. But, uh, they had as an example, in Michigan, a tremendous number of dead people that voted. I think it was I think, Mark, it was 18,000. Some unbelievably high number, much higher than yours, you were in the 4-5,000 category.
+
+And that was checked out laboriously by going through, by going through the obituary columns in the newspapers.
+
+So I guess with all of it being said, Brad, the bottom line and provisional ballots, again, you know, you’ll have to tell me about the provisional ballots, but we have a lot of people that were complaining that they weren’t able to vote because they were already voted for. These are great people.
+
+And, you know, they were shellshocked. I don’t know if you call that provisional ballots. In some states we had a lot of provisional ballot situations where people were given a provisional ballot because when they walked in on November 3 and they were already voted for.
+
+So that’s it. I mean, we have many many times the number of votes necessary to win the state. And we won the state and we won it very substantially and easily and we’re getting, we have, much of this is a very certified, far more certified than we need. But we’re getting additional numbers certified, too. And we’re getting pictures of dropboxes being delivered and delivered late. Delivered three days later, in some cases, plus we have many affidavits to that effect."
+12:51,12.85,14.05,1.2,Mark Meadows,,,,,,,,,,,,"- Interrupts Trump (who seemed to have finished introducing the arguments in fairness)
+- Asks to get agreement to ""look at this more fully... in spirit of cooperation and compromise""
+- Softer tone from Trump, less aqusationary. Nice cop? 
+","So Mr. President, if I might be able to jump in and I’ll give Brad a chance. Mr. Secretary, obviously there is, there are allegations where we believe that not every vote or fair vote and legal vote was counted and that’s at odds with the representation from the secretary of state’s office.
+
+What I’m hopeful for is there some way that we can we can find some kind of agreement to look at this a little bit more fully. You know the president mentioned Fulton County.
+
+But in some of these areas where there seems to be a difference of where the facts seem to lead, and so Mr. Secretary, I was hopeful that, you know, in the spirit of cooperation and compromise is there something that we can at least have a discussion to look at some of these allegations to find a path forward that’s less litigious?"
+14:03,14.05,15.57,1.52,Brad Raffensperger,,,,,,,,,,,,"- Georgia secretary of state
+- ""we don’t agree that you have won"", says we instead of I
+- Argues that he's had to spend a lot of time infront of political groups, and because of lawsuits, investigating and explaining all the points raised by Trump
+- Tries to get an agreement out of Trump. Says issues primarily with absentee ballot process, says that there's no issues with the Dominion voting machines because they proved there wasn't by doing hand recounts and the numbers matched","Well, I listened to what the president has just said. President Trump, we’ve had several lawsuits and we’ve had to respond in court to the lawsuits and the contentions. Um, we don’t agree that you have won. And we don’t — I didn’t agree about the 200,000 number that you’d mentioned. I’ll go through that point by point.
+
+What we have done is we gave our state Senate about one and a half hours of our time going through the election issue by issue and then on the state House, the government affairs committee, we gave them about two and a half hours of our time, going back point by point on all the issues of contention. And then just a few days ago we met with our U.S. congressmen, Republican congressmen, and we gave them about two hours of our time talking about this past election. Going back, primarily what you’ve talked about here focused in on primarily, I believe, is the absentee ballot process. I don’t believe that you’re really questioning the Dominion machines. Because we did a hand retally, a 100 percent retally of all the ballots and compared them to what the machines said and came up with virtually the same result. Then we did the recount, and we got virtually the same result. So I guess we can probably take that off the table.
+
+I don’t think there’s an issue about that."
+15:34,15.57,19.38,3.81,Donald Trump,"[
+{""topic"":""out_of_state_voters"",""number"":""4925"",""type"":""exact""},
+{""topic"":""vote_margin"",""number"":""11779"",""type"":""exact""},
+{""topic"":""vote_margin"",""number"":""11779"",""type"":""exact""},
+{""topic"":""general_vote_margins"",""number"":""2"",""type"":""rough""},
+{""topic"":""general_vote_margins"",""number"":""500000"",""type"":""rough""},
+{""topic"":""general_vote_margins"",""number"":""500000"",""type"":""rough""},
+{""topic"":""vote_margin"",""number"":""11000"",""type"":""round""},
+{""topic"":""ballots_sent_to_vacant_address"",""number"":""2326"",""type"":""exact""}
+]",8,6,,,4,2,,,,,"- Interrupts Brad
+- Trump refuses to afirm agreement. ""Not that there's not an issue"". Use of double negative is odd
+- Says he's not that concerned with Dominon because already has so many other numbers
+- Says numbers are minimums
+- Reiterates that numbers are certified...a couple times
+- Arguments:
+  -- ballots_sent_to_vacant_address: 2,236, mentioned x2
+  -- out_of_state_voters: 4,925
+  -- judgement_of_experienced_politicians: People coming in ""from Alabama and from South Carolina and from other states"" say it's impossible he lost
+  -- rally_size
+  -- state_farm_video: ""they dropped a lot of votes in there late at night. You know that, Brad."" - tells him what he knows. This the State Farm Arena video again?
+- Claims he using ""most conservative numbers possible""
+- 17:03 says ""Mark"" mid sentence when he wants Mark to support his statement that they aren't bothered investigating the Dominion machines. Mark just chimes in with a ""Right""
+- Lists more arguments for why he won
+- brings up that the people of Georgia are angry
+- tells Brad there's nothing wrong with saying they've recalculated
+- Again says Mark's name when making another remark about dominion (saying that won't give them a pass).
+- A lot of this this monologue spent denying there were no issues with Dominion. So he spends a significant amount of time refusing to give ground on an issue he hadn't even been originally concerned about (it was Brad who brought it up).
+- Trump's exact numbers ""done by accounting firms, law firms etc""","Well, Brad. Not that there’s not an issue, because we have a big issue with Dominion in other states and perhaps in yours. But we haven’t felt we needed to go there. And just to, you know, maybe put a little different spin on what Mark is saying, Mark Meadows, uh, yeah we’d like to go further, but we don’t really need to. We have all the votes we need.
+
+You know, we won the state. If you took, these are the most minimal numbers, the numbers that I gave you, those are numbers that are certified, your absentee ballots sent to vacant addresses, your out of state voters 4,925. You know when you add them up, it’s many more times, it’s many times the 11,779 number. So we could go through, we have not gone through your Dominion. So we can’t give them blessing. I mean, in other states, we think we found tremendous corruption with Dominion machines but we’ll have to see.
+
+But we only lost the state by that number, 11,000 votes, and 779. So with that being said, with just what we have, with just what we have we’re giving you minimal, minimal numbers. We’re doing the most conservative numbers possible, we’re many times, many, many times above the margin. And so we don’t really have to, Mark, I don’t think we have to go through. 
+
+Because, what’s the difference between winning the election by two votes and winning it by half a million votes. I think I probably did win it by half a million. You know, one of the things that happened Brad, is we have other people coming in now from Alabama and from South Carolina and from other states, and they’re saying it’s impossible for you to have lost Georgia. We won. You know in Alabama, we set a record, got the highest vote ever. In Georgia, we set a record with a massive amount of votes. And they say it’s not possible to have lost Georgia.
+
+And I could tell you by our rallies. I could tell you by the rally I’m having on Monday night, the place, they already have lines of people standing out front waiting. It’s just not possible to have lost Georgia. It's not possible. When I heard it was close I said there’s no way. But they dropped a lot of votes in there late at night. You know that, Brad. And that’s what we are working on very, very stringently. But regardless of those votes, with all of it being said, we lost by essentially 11,000 votes and we have many more votes already calculated and certified, too.
+
+And so I just don’t know, you know, Mark, I don’t know what’s the purpose. I won’t give Dominion a pass because we found too many bad things. But we don’t need Dominion or anything else. We have won this election in Georgia based on all of this. And there’s nothing wrong with saying that, Brad. You know I mean, having the correct — the people of Georgia are angry. And these numbers are going to be repeated on Monday night. Along with others that we’re going to have by that time which are much more substantial even. And the people of Georgia are angry, the people of the country are angry. And there’s nothing wrong with saying, you know, um, that you’ve recalculated. Because the 2,236 in absentee ballots. I mean, they’re all exact numbers that were done by accounting firms law firms, etc. and even if you cut ‘em in half, cut ‘em in half and cut ‘em in half, again, it’s more votes than we need."
+19:23,19.38,19.82,0.44,Brad Raffensperger,,,,,,,,,,,,"- ""Well Mr. President, the challenge that you have is the data you have is wrong"" - more direct now
+- Says they disproved the 5000 dead voters argument, only found 2","Well Mr. President, the challenge that you have is the data you have is wrong. We talked to the congressmen and they were surprised.
+
+But they — I guess there was a person Mr. Braynard who came to these meetings and presented data and he said that there was dead people, I believe it was upward of 5,000. The actual number were two. Two. Two people that were dead that voted. So that’s wrong."
+19:49,19.82,19.87,0.05,Donald Trump,,,,,,0,0,,,,,"- Interrupts Brad 
+- Tells Cleta to respond to argument there wasn't that many dead voters","Well Cleta, How do you respond to that? Maybe you tell me?"
+19:52,19.87,20.8,0.93,Cleta Mitchell,,,,,,,,,,,,"- Conservative lawyer
+- Explains what data they used
+- Says Brad's office isn't sharing detailed data with them they need to do job properly
+- Sounds like she's only explaining why they aren't right rather than why Brad is wrong","Well, I would say Mr. Secretary, one of the things that we have requested and what we said was, if you look, if you read our petition, it said that we took the names and birth years and we had certain information available to us. We have asked from your office for records that only you have and so we said there is a universe of people who have the same name and same birth year and died.
+
+But we don’t have the records that you have. And one of the things that we have been suggesting formally and informally for weeks now is for you to make available to us the records that would be necessary —"
+20:48,20.8,22.98,2.18,Donald Trump,"[
+{""topic"":""state_farm_video"",""number"":""18000"",""type"":""round""},
+{""topic"":""state_farm_video"",""number"":""56000"",""type"":""round""},
+{""topic"":""state_farm_video"",""number"":""18000"",""type"":""round""},
+{""topic"":""vote_margin"",""number"":""11000"",""type"":""round""},
+{""topic"":""state_farm_video"",""number"":""3"",""type"":""exact""},
+{""topic"":""state_farm_video"",""number"":""3"",""type"":""exact""},
+{""topic"":""state_farm_video"",""number"":""5"",""type"":""rough""}
+]",7,2,,,0,0,,,,,"- Interrupts Cleta
+- Makes vague claim that in one state there's a lot of dead people so he's sure there's a lot in Georgia too before moving on.
+- Gives more detail on scammer ballot stuff claim - each vote stuffed was counted 3 times by machine
+- Forcefully language ""it can't be disputed"" (about scammer stufffing 18k votes)
+- Claims to have version of video Georgia don't have (magnified in some way)
+- Hears Brad trying to say something and gives him room to speak ""Go ahead""
+- Arguments
+  -- dead_voters
+  -- state_farm_video
+- Started talking about scammer/state farm from 21:15 so spent 1:43 of a 2:11 speech talking about it
+- Tone becomes soleum towards end ""that one event was a disaster""","But Cleta, even before you do that, and not even including that, that’s why hardly even included that number, although in one state we have a tremendous amount of dead people. So I don’t know — I’m sure we do in Georgia, too. I’m sure we do in Georgia too.
+
+But, um, we’re so far ahead. We’re so far ahead of these numbers, even the phony ballots of [name] , known scammer. You know the Internet? You know what was trending on the Internet? “Where’s [name]?” Because they thought she’d be in jail. “Where’s [name]?” It’s crazy, it’s crazy. That was. The minimum number is 18,000 for [name] , but they think it’s probably about 56,000, but the minimum number is 18,000 on the [name] night where she ran back in there when everybody was gone and stuffed, she stuffed the ballot boxes. Let’s face it, Brad, I mean. They did it in slow motion replay magnified, right? She stuffed the ballot boxes. They were stuffed like nobody had ever seen them stuffed before.
+
+So there’s a term for it when it’s a machine instead of a ballot box, but she stuffed the machine. She stuffed the ballot — Each ballot went three times they were showing: Here’s ballot No 1. Here it is second time, third time, next ballot.
+
+I mean, look. Brad. We have a new tape that we’re going to release. It’s devastating. And by the way, that one event, that one event is much more than the 11,000 votes that we’re talking about. It’s uh, you know. That one event was a disaster. And it’s just, you know, but it was, it was something, it can’t be disputed. And again we have a version that you haven’t seen but it’s magnified. It’s magnified and you can see everything. For some reason they put it in three times, each ballot, and I don’t know why. I don’t know why three times. Why not five times, right? Go ahead."
+22:59,22.98,23.4,0.42,Brad Raffensperger,,,,,,,,,,,,"- Blames Rudy Guilliani for deceptively editing State Farm Arena video, says it doesn't show anything untoward","You’re talking about the State Farm video. And I think it’s extremely unfortunate that Rudy Giuliani or his people, they sliced and diced that video and took it out of context. The next day we brought in WSB-TV and we let them show, see the full run of tape and what you’ll see, the events that transpired are nowhere near what was projected by, you know —"
+23:24,23.4,25.47,2.07,Donald Trump,"[
+{""topic"":""state_farm_video"",""number"":""thousands"",""type"":""rough""},
+{""topic"":""state_farm_video"",""number"":""3"",""type"":""exact""},
+{""topic"":""state_farm_video"",""number"":""3"",""type"":""exact""}
+]",3,,,,0,0,,,,,"- Continues talking about state farm video, adds detail and more questions to story:
+  -- why where there no poll watchers present
+  -- why'd they leave the building, they said there was a water main leak but there actually wasn't
+  -- tape reviewed by police and detectives
+  -- when counters came back they didn't go to there stations as they should, went to get votes to stuff
+  -- scammer person known all over internet, was trending
+  -- why did they put the votes in three times?","But where were the poll watchers, Brad? There were no poll watchers there. There were no Democrats or Republicans. There was no security there.
+
+It was late in the evening, late in the, early in the morning, and there was nobody else in the room. Where were the poll watchers and why did they say a water main broke, which they did and which was reported in the newspapers? They said they left. They ran out because of a water main break, and there was no water main. There was nothing. There was no break. There was no water main break. But we’re, if you take out everything, where were the Republican poll watchers, even where were the Democrat pollwatchers, because there were none.
+
+And then you say, well, they left their station, you know, if you look at the tape, and this was, this was reviewed by professional police and detectives and other people, when they left in a rush, everybody left in a rush because of the water main, but everybody left in a rush. These people left their station.
+
+When they came back, they didn’t go to their station. They went to the apron, wrapped around the table, under which were thousands and thousands of ballots in a box that was not an official or a sealed box. And then they took those. They went back to a different station. So if they would have come back, they would have walked to their station and they would have continued to work. But they couldn’t do even that because that’s illegal, because they had no Republican pollwatchers. And remember, her reputation is — she’s known all over the Internet, Brad. She’s known all over.
+
+I’m telling you, “Where’s [name] ” was one of the hot items …[name] They knew her. “Where’s [name]?” So Brad, there can be no justification for that. And I you know, I give everybody the benefit of the doubt. But that was — And Brad, why did they put the votes in three times? You know, they put ‘em in three times."
+25:28,25.47,25.6,0.13,Brad Raffensperger,,,,,,,,,,,,- says they audited and proved conclusively votes weren't scanned 3 times,"Mr. President, they did not put that. We did an audit of that and we proved conclusively that they were not scanned three times."
+25:36,25.6,26.18,0.58,Donald Trump,"[
+{""topic"":""state_farm_video"",""number"":""5"",""type"":""rough""}
+]",1,,,,0,0,,,,,,"Where was everybody else at that late time in the morning? Where was everybody? Where were the Republicans? Where were the security guards? Were the people that were there just a little while before when everyone ran out of the room. How come we had no security in the room. Why did they run to the bottom of the table? Why do they run there and just open the skirt and rip out the votes. I mean, Brad. And they were sitting there, I think for five hours or something like that, the votes."
+26:11,26.18,26.25,0.07,Brad Raffensperger,,,,,,,,,,,,,"Mr. President, we’ll send you the link from WSB."
+26:15,26.25,26.32,0.07,Donald Trump,,,,,,0,0,,,,,,"I don’t care about the link. I don’t need it. Brad, I have a much better —"
+26:19,26.32,26.78,0.46,Cleta Mitchell,,,,,,,,,,,,"- Says she watched tapes and they estimate 18k ballots processed but they don't know that. Oddly lacking conviction, Trump has shown no doubts on this number","I will tell you. I’ve seen the tape. The full tape. So has Alex. We’ve watched it. And what we saw and what we’ve confirmed in the timing is that. They made everybody leave, we have sworn affidavits saying that. And then they began to process ballots. And our estimate is that there were roughly 18,000 ballots. We don’t know that. If you know that …"
+26:47,26.78,26.85,0.07,Donald Trump,"[
+{""topic"":""state_farm_video"",""number"":""18000"",""type"":""round""},
+{""topic"":""state_farm_video"",""number"":""3"",""type"":""exact""}
+]",2,,,,0,0,,,,,"- Interrupts Cleta forcefully to express there is no doubts there was 18k ballots, and they were processed three times!","It was 18,000 ballots but they used each one three times."
+26:51,26.85,26.88,0.03,Cleta Mitchell,,,,,,,,,,,,- Reiterates uncertainty in number. Odd she's saying it out loud when Trump is so certain,"Well, I don’t know about that."
+26:53,26.88,26.97,0.09,Donald Trump,,,,,,0,0,,,,,- Reiterates his certainty in 18k number because they magnified it,I do think because we had ours magnified out.
+26:58,26.97,27.02,0.05,Cleta Mitchell,,,,,,,,,,,,,I’ve watched the entire tape.
+27:01,27.02,27.22,0.2,Donald Trump,,,,,,0,0,1,,,,"- First direct insult to Brad
+- Insult
+  -- you’d have to be a child to think anything other than that. Just a child.","Nobody can make a case for that, Brad. Nobody. I mean, look, you’d have to be a child to think anything other than that. Just a child."
+27:13,27.22,27.3,0.08,Cleta Mitchell,,,,,,,,,,,,,"How many ballots, Mr. Secretary, are you saying were processed then?"
+27:18,27.3,27.37,0.07,Brad Raffensperger,,,,,,,,,,,,,We had GBI … investigate that.
+27:22,27.37,27.57,0.2,Ryan Germany,,,,,,,,,,,,- Says they had GBI (Georgia Bureau of Investigation) and FBI agents interview everyone who was there. Presumably it's implied they didn't find anything although he doesn't say it,We had our — this is Ryan Germany. We had our law enforcement officers talk to everyone who was who was there after that event came to light. GBI was with them as well as FBI agents
+27:34,27.57,28.02,0.45,Donald Trump,,,1,,,0,0,,,,,"- Trump says of the agents: ""They’re either dishonest or incompetent, okay?""
+- Moves on to out of state voters at 27:50
+- Argument
+  -- out_of_state_voters
+- Talked about State Farm video from 21:15 to roughly 27:50. 6:35 on that topic.","Well, there’s no way they could — then they’re incompetent. They’re either dishonest or incompetent, okay?
+
+There’s only two answers, dishonesty or incompetence. There’s just no way. Look. There’s no way. And on the other thing, I said too, there is no way. I mean, there’s no way that these things could have been you know, you have all these different people that voted but they don’t live in Georgia anymore. What was that number, Cleta? That was a pretty good number too."
+28:01,28.02,28.27,0.25,Cleta Mitchell,,,,,,,,,,,,- Explains the out of state voter number is people who were living in Georgia then moved out,"The number who have registered out of state after they moved from Georgia. And so they had a date when they moved from Georgia, they registered to vote out of state. And then it’s like 4,500, I don’t have that number right in front of me."
+28:16,28.27,28.3,0.03,Donald Trump,,,,,,0,0,,,,,,And then they came back in and they voted.
+28:18,28.3,28.32,0.02,Cleta Mitchell,,,,,,,,,,,,,And voted. Yeah.
+28:19,28.32,28.42,0.1,Donald Trump,"[
+{""topic"":""out_of_state_voters"",""number"":""20s"",""type"":""rough""}
+]",1,,,,0,0,,,,,"- Gets number wrong on out of state voters. In his opening speech he said 4,925 out of state voters, now he says he thought it was in the 20,000s","I thought that was a large number, though. It was in the 20s."
+28:25,28.42,28.7,0.28,Ryan Germany,,,,,,,,,,,,- Says all the out of state number were people who moved out of Georgia but later moved back,"We’ve been going through each of those as well and those numbers that we got that Ms. Mitchell was just saying, they’re not accurate. Every one we’ve been through, are people that lived in Georgia, moved to a different state, but then moved back to Georgia legitimately. And in many cases —"
+28:42,28.7,28.93,0.23,Donald Trump,,,,,,0,0,,,,,- Says it's crazy people would move out and then back,"How may people do that? They moved out and then they said, “Ah, to hell with it I’ll move back.” You know, it doesn’t sound like a very normal … you mean, they moved out, and what, they missed it so much that they wanted to move back in? It’s crazy."
+28:56,28.93,29.08,0.15,Ryan Germany,,,,,,,,,,,,"- Says they moved back years ago, not near election, so data isn't accurate","They moved back in years ago. This was not like something just before the election. So there’s something about that data that, it’s just not accurate."
+29:05,29.08,29.27,0.19,Donald Trump,,,,,,0,1,,,,,- Says it's certified,"Well, I don’t know, all I know is that it is certified. And they moved out of Georgia and they voted. It didn’t say they moved back in Cleta, did it?"
+29:16,29.27,29.5,0.23,Cleta Mitchell,,,,,,,,,,,,- Again asks for Georgia to share more of the data that they used to come to their conclusions,"No, but I mean, we’re looking at the voter registration. Again, if you have additional records, we’ve been asking for that, but you haven’t shared any of that with us. You just keep saying you investigated the allegations."
+29:30,29.5,30.27,0.77,Donald Trump,"[
+{""topic"":""margin_won_by"",""number"":""hundreds of thousands"",""type"":""rough""},
+{""topic"":""margin_won_by"",""number"":""hundreds of thousands"",""type"":""rough""},
+{""topic"":""vote_margin"",""number"":""11000"",""type"":""round""},
+{""topic"":""margin_won_by"",""number"":""hundreds of thousands"",""type"":""rough""}
+]",4,1,,,3,0,,,,,"- Claims he won election by 100s of thousands, no way he lost Georgia.
+- Ends talking about out of state voters, 29:55 moves on to Dominion removing voting machinery
+- Argument
+  -- fulton_equipment_and_ballot_tampering
+- Pattern being repeated here of Trump being challenged on a claim, seeing he's not making progress, forcefully reiterating claim in a slightly rambling way before quickly moving on without looking back.","Cleta, a lot of it you don’t need to be shared. I mean, to be honest, they should share. They should share it because you want to get to an honest election.
+
+I won this election by hundreds of thousands of votes. There’s no way I lost Georgia. There’s no way. We won by hundreds of thousands of votes. I’m just going by small numbers when you add them up they’re many times the 11,000. But I won that state by hundreds of thousands of votes.
+
+Do you think it’s possible that they shredded ballots in Fulton County? Because that’s what the rumor is. And also that Dominion took out machines. That Dominion is really moving fast to get rid of their, uh, machinery.
+
+Do you know anything about that? Because that’s illegal, right?"
+30:16,30.27,30.38,0.11,Ryan Germany,,,,,,,,,,,,,"This is Ryan Germany. No, Dominion has not moved any machinery out of Fulton County."
+30:23,30.38,30.52,0.14,Donald Trump,,,,,,0,0,,,,,,But have they moved the inner parts of the machines and replaced them with other parts?
+30:31,30.52,30.53,0.01,Ryan Germany,,,,,,,,,,,,,No.
+30:32,30.53,30.57,0.04,Donald Trump,,,,,,0,0,,,,,,"Are you sure, Ryan?"
+30:34,30.57,30.6,0.03,Ryan Germany,,,,,,,,,,,,,"I’m sure. I’m sure, Mr. President."
+30:36,30.6,30.73,0.13,Donald Trump,,,,,,0,0,,,,,"- Still on Fulton county argument, moves on from removing machinery to asking if they've been shredding ballots","What about, what about the ballots. The shredding of the ballots. Have they been shredding ballots?"
+30:44,30.73,31.05,0.32,Ryan Germany,,,,,,,,,,,,- Says only thing found on shredding was in Cobb County when they were shredding office stuff and that was only in past elections,"The only investigation that we have into that — they have not been shredding any ballots. There was an issue in Cobb County where they were doing normal office shredding, getting rid of old stuff, and we investigated that. But this stuff from, you know, from you know past elections."
+31:03,31.05,31.27,0.22,Donald Trump,"[
+{""topic"":""fulton_equipment_and_ballot_tampering"",""number"":""thousands"",""type"":""rough""}
+]",1,,,,0,0,,,,,,"It doesn’t pass the smell test because we hear they’re shredding thousands and thousands of ballots and now what they’re saying, “Oh, we’re just cleaning up the office.” Yeah."
+31:16,31.27,31.33,0.06,Brad Raffensperger,,,,,,,,,,,,,"Mr. President, the problem you have with social media, they — people can say anything."
+31:20,31.33,31.7,0.37,Donald Trump,,,,,,0,0,,,,,"- When challenged on what he's heard about shredding on social media: ""this isn’t social media. This is Trump media.""","Oh this isn’t social media. This is Trump media. It’s not social media. It’s really not it’s not social media. I don’t care about social media. I couldn’t care less. Social media is Big Tech. Big Tech is on your side. I don’t even know why you have a side, because you should want to have an accurate election. And you’re a Republican."
+31:42,31.7,31.75,0.05,Brad Raffensperger,,,,,,,,,,,,,We believe that we do have an accurate election.
+31:45,31.75,32.68,0.93,Donald Trump,"[
+{""topic"":""ballots_added_to_rolls"",""number"":""hundreds of thousands"",""type"":""rough""}
+]",1,1,,,1,0,,,,,"- Again forceful claims about willing state by 100s of thousands before moving on to signatures not matching at 32:00
+- Arguments
+  -- fulton_forged_signatures
+- Complains his (Trump's) team were only allowed investigate signatures in Cobb County, when they wanted to investigate Fulton
+- Says Brad is hiding a reason him as to why they couldn't investigate Fulton","No, no you don’t. No, no you don't. You don’t have. Not even close. You’re off by hundreds of thousands of votes. And just on the small numbers, you’re off on these numbers and these numbers can’t be just — well, why wont? — Okay. So you sent us into Cobb County for signature verification, right? You sent us into Cobb County, which we didn’t want to go into. And you said it would be open to the public. So we had our experts there they weren’t allowed into the room. But we didn’t want Cobb County. We wanted Fulton County. And you wouldn’t give it to us. Now, why aren’t we doing signature — and why can’t it be open to the public?
+
+And why can’t we have professionals do it instead of rank amateurs who will never find anything and don’t want to find anything? They don’t want to find, you know, they don’t want to find anything. Someday you’ll tell me the reason why, because I don’t understand your reasoning, but someday you’ll tell me the reason why. But why don’t you want to find?"
+32:41,32.68,32.7,0.02,Ryan Germany,,,,,,,,,,,,,"Mr. President, we chose Cobb County —"
+32:42,32.7,32.77,0.07,Donald Trump,,,,,,0,0,,,,,,Why don’t you want to find … What?
+32:46,32.77,32.78,0.01,Ryan Germany,,,,,,,,,,,,,"Sorry, go ahead."
+32:47,32.78,32.98,0.2,Donald Trump,,,,,,0,0,,,,,,"So why did you do Cobb County? We didn’t even request — we requested Fulton County, not Cobb County. Go ahead, please. Go ahead."
+32:59,32.98,33.12,0.14,Ryan Germany,,,,,,,,,,,,- Cobb County only place with any evidence of issues with signatures,We chose Cobb County because that was the only county where there’s been any evidence submitted that the signature verification was not properly done.
+33:07,33.12,34.22,1.1,Donald Trump,"[
+{""topic"":""fulton_forged_signatures"",""number"":""hundreds of thousands"",""type"":""rough""}
+]",1,,,,0,0,,,,,"- Stacey refered to is Stacey Abrams, democrat former politician credited with increasing voter turnout in Georgia in 2020
+- change in focus of fulton_forged_signatures argument: Law Stacey Abrams got Brad to sign stops proper checking of signatures. Probably allows harvesting of votes
+- Not discussed but harvesting if collecting ballots from others to deliver them. It's allowed in some states and does bring worries the harvester could tamper with the votes","No, but I told you. We’re not, we’re not saying that.
+
+Fulton County. Look. Stacey, in my opinion, Stacey is as dishonest as they come. She has outplayed you … at everything. She got you to sign a totally unconstitutional agreement, which is a disastrous agreement. You can’t check signatures. I can’t imagine you’re allowed to do harvesting, I guess, in that agreement. That agreement is a disaster for this country. But she got you somehow to sign that thing and she has outsmarted you at every step.
+
+And I hate to imagine what’s going to happen on Monday or Tuesday, but it’s very scary to people. You know, when the ballots flow in out of nowhere. It’s very scary to people. That consent decree is a disaster. It’s a disaster. A very good lawyer who examined it said they’ve never seen anything like it."
+34:13,34.22,34.32,0.1,Brad Raffensperger,,,,,,,,,,,,,Harvesting is still illegal in the state of Georgia. And that settlement agreement did not change that one iota.
+34:19,34.32,34.55,0.23,Donald Trump,,,,,,0,0,,,,1,- Starts arguing about wether that law to do with verifying signatures is called a consent decree or a settlement agreement (Trump thinks it's a consent decree),"It’s not a settlement agreement, it’s a consent decree. It even says consent decree on it, doesn’t it? It uses the term consent decree. It doesn’t say settlement agree. It’s a consent decree. It’s a disaster."
+34:33,34.55,34.58,0.03,Brad Raffensperger,,,,,,,,,,,,,It’s a settlement agreement.
+34:35,34.58,34.65,0.07,Donald Trump,,,,,,0,0,,,,,,What’s written on top of it?
+34:39,34.65,34.68,0.03,Brad Raffensperger,,,,,,,,,,,,,Ryan?
+34:41,34.68,34.77,0.09,Ryan Germany,,,,,,,,,,,,,"I don’t have it in front of me, but it was not entered by the court, it’s not a court order."
+34:46,34.77,34.85,0.08,Donald Trump,,,,,,0,0,,,,,,"But Ryan, it’s called a consent decree, is that right? On the paper. Is that right?"
+34:51,34.85,34.93,0.08,Ryan Germany,,,,,,,,,,,,,"I don’t. I don’t. I don’t believe so, but I don’t have it in front of me."
+34:56,34.93,38.52,3.59,Donald Trump,"[
+{""topic"":""ballots_added_to_rolls"",""number"":""hundreds of thousands"",""type"":""rough""},
+{""topic"":""ballots_added_to_rolls"",""number"":""1-6"",""type"":""range""},
+{""topic"":""vote_margin"",""number"":""11779"",""type"":""exact""},
+{""topic"":""vote_margin"",""number"":""11780"",""type"":""exact""}
+]",4,1,,,2,0,2,,1,,"- Stops arguing about if law called a consent decree after 37 seconds
+- Details argument a bit more. Many unsigned ballots in Fulton and many forgeries
+- Insults
+  -- they’re [Stacy Abrams and Fulton County] going around playing you and laughing at you behind your back, Brad
+  -- you’ve taken a state that’s a Republican state, and you’ve made it almost impossible for a Republican to win because of cheating
+- Argument
+  -- fulton_equipment_and_ballot_tampering: shredding ballots
+- First time he goes back to an argument he moved on from, although it is also to do with Fulton county
+- Threat
+  -- Criminal offence that Brad is not doing something about the forged ballots being shredded. ""I'm notifying you that you're letting it happen."", ""If it was a mistake [the state not voting for Trump], I don’t know. A lot of people think it wasn’t a mistake. It was much more criminal than that.""
+  -- it is more illegal for you than it is for them because, you know what they did and you’re not reporting it. That’s a criminal, that’s a criminal offense. And you can’t let that happen. That’s a big risk to you and to Ryan, your lawyer.
+- Encouragement
+  -- flipping the state is a great testament to our country
+- Lead quote from Washington Post story ""I just want to find 11,780 votes"" is at 37:51. Longer quote is ""So look. All I want to do is this. I just want to find 11,780 votes, which is one more than we have because we won the state."" Isn't any escalation on what he's been requesting all call","OK, whatever, it’s a disaster. It’s a disaster. Look. Here’s the problem. We can go through signature verification and we’ll find hundreds of thousands of signatures, if you let us do it. And the only way you can do it, as you know, is to go to the past. But you didn’t do that in Cobb County. You just looked at one page compared to another. The only way you can do a signature verification is go from the one that signed it on November whatever. Recently. And compare it to two years ago, four years ago, six years ago, you know, or even one. And you’ll find that you have many different signatures. But in Fulton, where they dumped ballots, you will find that you have many that aren’t even signed and you have many that are forgeries.
+
+OK, you know that. You know that. You have no doubt about that. And you will find you will be at 11,779 within minutes, because Fulton County is totally corrupt and so is she totally corrupt.
+
+And they’re going around playing you and laughing at you behind your back, Brad, whether you know it or not, they’re laughing at you and you’ve taken a state that’s a Republican state, and you’ve made it almost impossible for a Republican to win because of cheating, because they cheated like nobody’s ever cheated before. And I don’t care how long it takes me, you know, we’re going to have other states coming forward — pretty good.
+
+But I won’t … this is never … this is … We have some incredible talent said they’ve never seen anything … Now the problem is they need more time for the big numbers. But they’re very substantial numbers. But I think you’re going to fine that they — by the way, a little information, I think you’re going to find that they are shredding ballots because they have to get rid of the ballots because the ballots are unsigned. The ballots are corrupt, and they’re brand new and they don’t have a seal and there’s the whole thing with the ballots. But the ballots are corrupt.
+
+And you are going to find that they are — which is totally illegal, it is more illegal for you than it is for them because, you know what they did and you’re not reporting it. That’s a criminal, that’s a criminal offense. And you can’t let that happen. That’s a big risk to you and to Ryan, your lawyer. And that’s a big risk. But they are shredding ballots, in my opinion, based on what I’ve heard. And they are removing machinery and they’re moving it as fast as they can, both of which are criminal finds. And you can’t let it happen and you are letting it happen. You know, I mean, I’m notifying you that you’re letting it happen. So look. All I want to do is this. I just want to find 11,780 votes, which is one more than we have because we won the state.
+
+And flipping the state is a great testament to our country because, you know, this is — it’s a testament that they can admit to a mistake or whatever you want to call it. If it was a mistake, I don’t know. A lot of people think it wasn’t a mistake. It was much more criminal than that. But it’s a big problem in Georgia and it’s not a problem that’s going away. I mean, you know, it’s not a problem that’s going away."
+38:31,38.52,38.6,0.08,Ryan Germany,,,,,,,,,,,,,This is Ryan. We’re looking into every one of those things that you mentioned.
+38:36,38.6,38.72,0.12,Donald Trump,,,,,,0,0,,,,,,"Good. But if you find it you’ve got to say it, Ryan."
+38:43,38.72,39.07,0.35,Ryan Germany,,,,,,,,,,,,,"… Let me tell you what we are seeing. What we’re seeing is not at all what you’re describing, these are investigators from our office, these are investigators from GBI, and they’re looking and they’re good. And that’s not what they’re seeing. And we’ll keep looking, at all these things."
+39:04,39.07,39.98,0.91,Donald Trump,"[
+{""topic"":""vote_margin"",""number"":""11000"",""type"":""exact""}
+]",1,1,,,0,0,,,,,"- Continues on with argument the Fulton are shredding ballots
+- Ends shredding argument at 39:54 and moves on to voters arriving but being told they already voted
+- Argument
+  -- legitimate_voters_refused_as_already_voted: voters who turned up but weren't allowed to vote due to having already voted
+- Starts about it by asking if Georgia have provisonal ballots. Provisional ballots are used when there's questions with your eligibility to vote. The ballot can later be counted if the issues are resolved.","Well, you better check the ballots because they are shredding ballots, Ryan. I’m just telling you, Ryan. They’re shredding ballots. And you should look at that very carefully. Because that’s so illegal. You know, you may not even believe it because it’s so bad. But they’re shredding ballots because they think we’re going to eventually get … because we’ll eventually get into Fulton. In my opinion it’s never too late. … So, that’s the story. Look, we need only 11,000 votes. We have are far more than that as it stands now. We’ll have more and more. And . Do you have provisional ballots at all, Brad? Provisional ballots?"
+39:59,39.98,40.05,0.07,Brad Raffensperger,,,,,,,,,,,,,Provisional ballots are allowed by state law.
+40:03,40.05,40.2,0.15,Donald Trump,,,,,,0,0,,,,,,"Sure, but I mean, are they counted or did you just hold them back because they, you know, in other words, how many provisional ballots do you have in the state?"
+40:12,40.2,40.25,0.05,Brad Raffensperger,,,,,,,,,,,,,We’ll get you that number.
+40:15,40.25,41.58,1.33,Donald Trump,"[
+{""topic"":""legitimate_voters_refused_as_already_voted"",""number"":""thousands"",""type"":""rough""},
+{""topic"":""military_ballot_batch_all_for_biden"",""number"":""100"",""type"":""round""},
+{""topic"":""military_ballot_batch_all_for_biden"",""number"":""100"",""type"":""round""},
+{""topic"":""military_ballot_batch_all_for_biden"",""number"":""100"",""type"":""round""}
+]",4,1,1,,2,0,,,,,"- Argues there'll be loads of provisional ballots for him because of this if they check
+- Moves on without waiting to be challenged at 40:55
+- Arguments
+  -- military_ballot_batch_all_for_biden (new): there was batch of military ballots that came in and were entirely for Biden","Because most of them are made out to the name Trump. Because these are people that were scammed when they came in. And we have thousands of people that have testified or that want to testify when they came in they were probably going to vote on November 3. And they were told I’m sorry, you’ve already been voted for, you’ve already voted. The women, men started screaming, No. I proudly voted til November 3. They said, I’m sorry, but you’ve already been voted for and you have a ballot and these people are beside themselves. So they went out and they filled in a provisional ballot, putting the name Trump on it.
+
+And what about that batch of military ballots that came in. And even though I won the military by a lot, it was 100 percent Trump. I mean 100 percent Biden. Do you know about that? A large group of ballots came in. I think it was to Fulton County and they just happened to be 100 percent for Trump — for Biden, even though Trump won the military by a lot, you know, a tremendous amount. But these ballots were 100 percent for Biden. And, do you know about that? A very substantial number came in, all for Biden. Does anybody know about it?"
+41:35,41.58,41.63,0.05,Cleta Mitchell,,,,,,,,,,,,,"I know about it, but —"
+41:38,41.63,41.93,0.3,Donald Trump,,,,,,0,0,,,,,"- Shows frustration with Cleta Mitchell: "" I’m not asking you Cleta, honestly. I’m asking Brad.""","OK, Cleta, I’m not asking you Cleta, honestly. I’m asking Brad. Do you know about the military ballots that we have confirmed now. Do you know about the military ballots that came in that were 100 percent, I mean 100 percent for Biden. Do you know about that?"
+41:56,41.93,42.25,0.32,Ryan Germany,,,,,,,,,,,,"- Explains military doesn't come in it's own batch, they're mixed with overseas citizens which are typically vote very democrat","I don’t know about that, I do know that we have when military ballots come in, it’s not just military, it’s also military and overseas citizens. The military part of that does generally go Republican. The overseas citizen part of it generally goes very Democrat. This was a mix of ‘em."
+42:15,42.25,45.37,3.12,Donald Trump,"[
+{""topic"":""military_vote_share"",""number"":""78"",""type"":""exact""},
+{""topic"":""military_ballot_batch_all_for_biden"",""number"":""100"",""type"":""round""},
+{""topic"":""vote_margin"",""number"":""12000"",""type"":""round""},
+{""topic"":""votes_found_against_trump"",""number"":""thousands"",""type"":""rough""},
+{""topic"":""votes_found_against_trump"",""number"":""3000"",""type"":""round""},
+{""topic"":""fulton_forged_signatures"",""number"":""hundreds of thousands"",""type"":""rough""},
+{""topic"":""vote_margin"",""number"":""11000"",""type"":""round""},
+{""topic"":""vote_margin"",""number"":""11000"",""type"":""round""},
+{""topic"":""state_farm_video"",""number"":""18000"",""type"":""round""},
+{""topic"":""vote_margin"",""number"":""3"",""type"":""exact""}
+]",10,2,,,1,0,,,,,"- Again descibes things (but not the Brad specifically) as being criminal
+- Rambles a bit about recounts and how he was surprised more votes against him were found
+- Goes back to signature issues at 43:56
+- Arguments
+  -- fulton_forged_signatures
+  -- state_farm_video: Mentions scammer's name, the 18k votes and that they were scanned 3 times again.
+- ""So what are we going to do here folks? I only need 11,000 votes. Fellas, I need 11,000 votes. Give me a break.""
+- Adds further detail to State Farm video argument saying every ballot stuff was for Biden","No, but this was. That’s OK. But I got like 78 percent of the military. These ballots were all for … They didn’t tell me overseas. Could be overseas too, but I get votes overseas too, Ryan, in all fairness. No they came in, a large batch came in and it was, quote, 100 percent for Biden. And that is criminal. You know, that’s criminal. OK. That’s another criminal, that’s another of the many criminal events, many criminal events here.
+
+Oh, I don’t know, look Brad. I got to get … I have to find 12,000 votes and I have them times a lot. And therefore, I won the state. That’s before we go to the next step, which is in the process of right now. You know, and I watched you this morning and you said, uh, well, there was no criminality.
+
+But I mean, all of this stuff is very dangerous stuff. When you talk about no criminality, I think it’s very dangerous for you to say that.
+
+I just, I just don’t know why you don’t want to have the votes counted as they are. Like even you when you went and did that check. And I was surprised because, you know … And we found a few thousand votes that were against me. I was actually surprised because the way that check was done, all you’re doing you know, recertifying existing votes and, you know, and you were given votes and you just counted them up and you still found 3,000 that were bad. So that was sort of surprising that it came down to three or five I don’t know. still a lot of votes. But you have to go back to check from past years with respect to signatures. And if you check with Fulton County, you’ll have hundreds of thousands because they dumped ballots into Fulton County and the other county next to it.
+
+So what are we going to do here folks? I only need 11,000 votes. Fellas, I need 11,000 votes. Give me a break. You know, we have that in spades already. Or we can keep it going but that’s not fair to the voters of Georgia because they’re going to see what happened and they’re going to see what happened. I mean, I’ll, I’ll take on to anybody you want with regard to [name] and her lovely daughter, a very lovely young lady, I’m sure. But, but [name] … I will take on anybody you want. And the minimum, there were 18,000 ballots but they used them three times. So that’s, you know, a lot of votes. … And they were all to Biden, by the way, that’s the other thing we didn’t say. You know, [name] , the one thing I forgot to say which was the most important. You know that every single ballot she did went to Biden. You know that, right? Do you know that, by the way, Brad?
+
+Every single ballot that she did through the machines at early, early in the morning, went to Biden. Did you know that, Ryan?"
+45:22,45.37,45.42,0.05,Brad Raffensperger,,,,,,,,,,,,,"That’s not accurate, Mr. President."
+45:25,45.42,45.48,0.06,Donald Trump,,,,,,0,0,,,,,,Huh. What is accurate?
+45:29,45.48,45.57,0.09,Ryan Germany,,,,,,,,,,,,,The numbers that we are showing are accurate.
+45:34,45.57,45.88,0.31,Donald Trump,,,,,,0,0,,,,,"- Still on State Farm video
+- Tries slightly different angle, asking if they've checked who the ballots scanned at time of video were for.","No, about [name] . About early in the morning, Ryan. Where the woman took, you know, when the whole gang took the stuff from under the table, right? Do you know, do you know who those ballots, who they were made out to, do you know who they were voting for?"
+45:53,45.88,45.9,0.02,Ryan Germany,,,,,,,,,,,,- Sounds like request was new to him and he's not 100% sure how to respond,"No, not specifically."
+45:54,45.9,46,0.1,Donald Trump,,,,,,0,0,,,,,- Trump pressures on this lack of sureness,Did you ever check?
+46:00,46,46.03,0.03,Ryan Germany,,,,,,,,,,,,,We did what I described to you earlier —
+46:02,46.03,46.27,0.24,Donald Trump,,,,,,0,0,,,,,,"No no no — did you ever check the ballots that were scanned by [name] , a known political operative and balloteer. Did ever check who those votes were for?"
+46:16,46.27,46.32,0.05,Ryan Germany,,,,,,,,,,,,,We looked into that situation that you described.
+46:19,46.32,48.12,1.8,Donald Trump,"[
+{""topic"":""state_farm_video"",""number"":""100"",""type"":""round""},
+{""topic"":""state_farm_video"",""number"":""100"",""type"":""round""},
+{""topic"":""vote_margin"",""number"":""17779"",""type"":""exact""},
+{""topic"":""state_farm_video"",""number"":""5-6"",""type"":""range""},
+{""topic"":""state_farm_video"",""number"":""3"",""type"":""exact""}
+]",5,,,,1,0,1,2,,,"- Says ballots were 100% for Biden
+- Insult
+  -- Why don’t you want to find this, Ryan? What’s wrong with you?
+- Weird complement to Ryan Germany
+  -- I heard your lawyer is very difficult, actually, but I’m sure you’re a good lawyer. You have a nice last name.
+  -- I’m hearing Ryan that he’s probably, I’m sure a great lawyer and everything.
+- ""why do you keep fighting this thing? It just doesn’t make sense.""
+- Misspeaks 11,779 number, says 17,779
+- Claims to have won election again
+- Incriminating line at 47:30, most directly he's told Brad what to do: ""I think you have to say that you’re going to reexamine it and you can reexamine it, but reexamine it with people that want to find answers, not people that don’t want to find answers.""
+- Brings up Ryan Germany's lack of sureness on who State Farm ballots were for again. ","No, they were 100 percent for Biden. 100 percent. There wasn’t a Trump vote in the whole group. Why don’t you want to find this, Ryan? What’s wrong with you? I heard your lawyer is very difficult, actually, but I’m sure you’re a good lawyer. You have a nice last name.
+
+But, but I’m just curious why wouldn’t, why do you keep fighting this thing? It just doesn’t make sense. We’re way over the 17,779, right? We’re way over that number and just if you took just [name] , we’re over that number by five, five or six times when you multiply that times three.
+
+And every single ballot went to Biden, and you didn’t know that, but, now you know it. So tell me, Brad, what are we going to do? We won the election and it’s not fair to take it away from us like this. And it’s going to be very costly in many ways. And I think you have to say that you’re going to reexamine it and you can reexamine it, but reexamine it with people that want to find answers, not people that don’t want to find answers. For instance, I’m hearing Ryan that he’s probably, I’m sure a great lawyer and everything. But he’s making statements about those ballots that he doesn’t know. But he’s making them with such — he did make them with surety. But now I think he’s less sure because the answer is they all went to Biden and that alone wins us the election by a lot. You know, so."
+48:07,48.12,48.38,0.26,Brad Raffensperger,,,,,,,,,,,,,"Mr. President, you have people that submit information and we have our people that submit information. And then it comes before the court and the court then has to make a determination. We have to stand by our numbers. We believe our numbers are right."
+48:23,48.38,49.98,1.6,Donald Trump,"[
+{""topic"":""ballots_added_to_rolls"",""number"":""hundreds of thousands"",""type"":""rough""},
+{""topic"":""georgia_governors_vote_deficit"",""number"":""21"",""type"":""exact""},
+{""topic"":""georgia_governors_vote_deficit"",""number"":""21"",""type"":""exact""}
+]",3,,,,0,0,,,,,"- Moves on from State Farm video at 48.30, starts rambling complaining that courts won't start his case
+- Starts rambling
+  -- you don’t care about anything. “Your numbers are right.” But your numbers aren’t right. They’re really wrong
+  -- Funny line: ""Look ultimately, I win, okay?""
+  -- Says he regrets endorsing governor of Georgia","Why do you say that? I don’t know. I mean, sure, we can play this game with the courts, but why do you say that? First of all they don’t even assign us a judge. They don’t even assign us a judge. But why wouldn’t you — Hey Brad, why wouldn’t you want to check out [name] ? And why wouldn’t you want to say, hey, if in fact, President Trump is right about that, then he wins the state of Georgia, just that one incident alone without going through hundreds of thousands of dropped ballots. You just say, you stick by, I mean I’ve been watching you, you know, you don’t care about anything. “Your numbers are right.” But your numbers aren’t right. They’re really wrong and they’re really wrong, Brad. And I know this phone call is going nowhere other than, other than ultimately, you know — Look ultimately, I win, okay? Because you guys are so wrong. And you treated this. You treated the population of Georgia so badly. You, between you and your governor, who is down at 21, he was down 21 points. And like a schmuck, I endorsed him and he got elected, but I will tell you, he is a disaster.
+
+And he knows, I can’t imagine that people are so angry in Georgia, I can’t imagine he’s ever getting elected again I’ll tell you that much right now. But why wouldn’t you want to find it right answer, Brad, instead of keep saying that the numbers are right? Those numbers are so wrong?"
+49:59,49.98,51.67,1.69,Cleta Mitchell,,,,,,,,,,,,"- Complains court isn't taking up their case but people of Georgia and America have a right to know
+- Complains about Georgia not sharing data again
+- Says they're aren't going into Dominion's counting accuracy as: ""we just didn’t feel as though we had any to be able to develop —"", Trump cuts her off.","Mr. Secretary, Mr. President, one of the things that we have been, Alex can talk about this, we talked about it, and I don’t know whether the information has been conveyed to your office, but I think what the president is saying, and what we’ve been trying to do is to say, look, the court is not acting on our petition. They haven’t even assigned a judge. But the people of Georgia and the people of America have a right to know the answers. And you have data and records that we don’t have access to.
+
+And you can keep telling us that you investigated this and nothing to see here. But we don’t know about that. All we know what you tell us. What I don’t understand is why wouldn’t it be in everyone’s best interest to try to get to the bottom, compare the numbers, you know, if you say, because … to try to be able to get to the truth because we don’t have any way of confirming what you’re telling us. You tell us that you had an investigation at the State Farm Arena. I don’t have any report. I’ve never seen a report of investigation. I don’t know that is. I’ve been pretty involved in this and I don’t know. And that’s just of 25 categories. And it doesn’t even. And as I, as the president said, we haven’t even gotten into the Dominion issue. That’s not part of our case. It’s not part of our, we just didn’t feel as though we had any to be able to develop —"
+51:40,51.67,52.5,0.83,Donald Trump,"[
+{""topic"":""vote_margin"",""number"":""11000"",""type"":""round""},
+{""topic"":""vote_margin"",""number"":""11000"",""type"":""round""},
+{""topic"":""margin_won_by"",""number"":""hundreds of thousands"",""type"":""rough""}
+]",3,,,,3,0,,,,,"- Claims he won Georgia easily by 100s of thousands of votes
+- Reiterates he's not giving Dominion's counting accuracy a pass, just doesn't need them as they already so many other votes","No, we do have a way but I don’t want to get into it. We found a way … excuse me, but we don’t need it because we’re only down 11,000 votes so we don’t even need it. I personally think they’re corrupt as hell. But we don’t need that. All we have to do Cleta is find 11,000-plus votes. So we don’t need that. I’m not looking to shake up the whole world. We won Georgia easily. We won by hundreds of thousands of votes. But if you go by basic simple numbers, we won it easily, easily. So we’re not giving Dominion pass on the record. We don’t need Dominion, because we have so many other votes that we don’t need to prove it any more than we already have."
+52:30,52.5,53.32,0.82,Kurt Hilbert,,,,,,,,,,,,"- Says ""3 to 4"" seperate experts looked at 4 issues that add up to 24,149 illegally cast votes
+- Doesn't say what those 4 issues are and none of the issues with specific numbers Trump mentioned add up to this. Closest I got was State Farm (18,325), out of state voters (4,925) and voters with only a PO box (904) which adds to 24,154. That's only 3 issues though and is still the number still doesn't match","Mr. President and Cleta, this is Kurt Hilbert, if I might interject for a moment. Um Ryan, I would like to suggest just four categories that have already been mentioned by the president that have actually hard numbers of 24.149 votes that were counted illegally. That in and of itself is sufficient to change the results or place the outcome in doubt. We would like to sit down with your office so we can do it through purposes of compromise and just like this phone call, just to deal with that limited category of votes. And if you are able to establish that our numbers are not accurate, then fine. However, we believe that they are accurate. We’ve had now three to four separate experts looking at these numbers."
+53:19,53.32,53.37,0.05,Donald Trump,,,,,,0,1,,,,,,Certified accountants looked at them.
+53:22,53.37,54.05,0.68,Kurt Hilbert,,,,,,,,,,,,,"Correct. And this is just based on USPS data and your own secretary of state data. So that’s what we would entreat and ask you to do, to sit down with us in a compromise and settlements proceeding and actually go through the registered voter IDs and registrations. And if you can convince us that 24,149 is inaccurate, then fine. But we tend to believe that is, you know, obviously more than 11,779. That’s sufficient to change the results entirely in of itself. So what would you say to that, Mr. Germany?"
+54:03,54.05,54.37,0.32,Ryan Germany,,,,,,,,,,,,,"I’m happy to get with our lawyers and we’ll set that up. That number is not accurate. And I think we can show you, for all the ones we’ve looked at, why it’s not. And so if that would be helpful, I’m happy to get with our lawyers and set that up with you guys."
+54:22,54.37,54.53,0.16,Donald Trump,,,,,,0,0,,,,,,"Well, let me ask you, Kurt, you think that is an accurate number. That was based on the information given to you by the secretary of state’s department, right?"
+54:32,54.53,55.07,0.54,Kurt Hilbert,,,,,,,,,,,,"- Complains they asked for more data 6 times but haven't gotten it
+- ""it stands to reason that if the information is not forthcoming, there’s something to hide.""","That is correct. That information is the minimum most conservative data based upon the USPS data and the secretary of state’s office data that has been made publicly available. We do not have the internal numbers from the secretary of state. We have asked for it six times. I sent a letter over to … several times requesting this information, and it’s been rebuffed every single time. So it stands to reason that if the information is not forthcoming, there’s something to hide. That’s the problem that we have."
+55:04,55.07,55.18,0.11,Ryan Germany,,,,,,,,,,,,- Says they can't give out some data under law,"Well, that’s not the case sir. There are things that you guys are entitled to get. And there’s things that under the law, we are not allowed to give out."
+55:11,55.18,56.75,1.57,Donald Trump,"[
+{""topic"":""margin_won_by"",""number"":""hundreds of thousands"",""type"":""rough""}
+]",1,1,,,3,0,,,,,"- Pressure
+  -- Because of what you’ve done to the president, a lot of people aren’t going out to vote and a lot of Republicans are going to vote negative
+  -- you would be respected. Really respected, if this thing could be straightened out before the election
+  -- I’ll tell you it’s going to have a big impact on Tuesday [senate elections] if you guys don’t get this thing straightened out fast.
+- Arguments
+  -- judgement_of_experienced_politicians: Political people say there's no way he lost (Governors/politicians in other major states)
+- Claims to have won by 100s of 1000s of votes again","Well, you have to. Well, under the law you’re not allowed to give faulty election results, OK? You’re not allowed to do that. And that’s what you done. This is a faulty election result. And honestly, this should go very fast. You should meet tomorrow because you have a big election coming up and because of what you’ve done to the president — you know, the people of Georgia know that this was a scam. Because of what you’ve done to the president, a lot of people aren’t going out to vote and a lot of Republicans are going to vote negative because they hate what you did to the president. Okay? They hate it. And they’re going to vote. And you would be respected. Really respected, if this thing could be straightened out before the election. You have a big election coming up on Tuesday. And I think that it is really is important that you meet tomorrow and work out on these numbers. Because I know Brad that if you think we’re right, I think you’re going to say, and I’m not looking to blame anybody. I’m just saying you know, and, you know, under new counts, and under uh, new views, of the election results, we won the election. You know? It’s is very simple. We won the election. As the governors of major states and the surrounding states said, there is no way you lost Georgia, as the Georgia politicians say, there is no way, you lost Georgia. Nobody. Everyone knows I won it by hundreds of thousands of votes. But I’ll tell you it’s going to have a big impact on Tuesday if you guys don’t get this thing straightened out fast."
+56:45,56.75,57.25,0.5,Mark Meadows,,,,,,,,,,,,"- Tells Georgia they've agreed to share data now, asks them to confirm",Mr. President. This is Mark. It sounds like we’ve got different sides agreeing that we can look at these areas ands I assume that we can do that within the next 24 to 48 hours to go ahead and get that reconciled so that we can look at the two claims and making sure that we get the access to the secretary of state’s data to either validate or invalidate the claims that have been made. Is that correct?
+57:15,57.25,57.53,0.28,Ryan Germany,,,,,,,,,,,,,"No, that’s not what I said. I’m happy to have our lawyers sit down with Kurt and the lawyers on that side and explain to my him, here’s, based on what we’ve looked at so far, here’s how we know this is wrong, this is wrong, this is wrong, this is wrong, this is wrong."
+57:32,57.53,57.75,0.22,Mark Meadows,,,,,,,,,,,,,"So what you’re saying, Ryan, let me let me make sure … so what you’re saying is you really don’t want to give access to the data. You just want to make another case on why the lawsuit is wrong?"
+57:45,57.75,57.87,0.12,Ryan Germany,,,,,,,,,,,,"- Refuses to share data, says they can't by law",I don’t think we can give access to data that’s protected by law. But we can sit down with them and say —
+57:52,57.87,57.95,0.08,Donald Trump,,,,,,0,0,1,,,,"- Insult
+  -- But you’re allowed to have a phony election? You’re allowed to have a phony election right?",But you’re allowed to have a phony election? You’re allowed to have a phony election right?
+57:57,57.95,57.97,0.02,Ryan Germany,,,,,,,,,,,,,No sir.
+57:58,57.97,58.17,0.2,Donald Trump,,,1,,,0,0,,,,,"- Asks when they'll be doing signature verification in Fulton County
+- Arguments
+  -- fulton_forged_signatures","When are you going to do signature counts, when are you going to do signature verification on Fulton County, which you said you were going to do, and now all of a sudden you’re not doing it. When are you doing that?"
+58:10,58.17,58.22,0.05,Ryan Germany,,,,,,,,,,,,,We are going to do that. We’ve announced —
+58:13,58.22,58.48,0.26,Kurt Hilbert,,,,,,,,,,,,"- Goes back to issue of sharing personal data
+- Asks if Trump's lawyers could be deputised by Georgia so they could look at the data","To get to this issue of the personal information and privacy issue, is it possible that the secretary of state could deputize the lawyers for the president so that we could access that information and private information without you having any kind of violation?"
+58:29,58.48,58.8,0.32,Donald Trump,,,,,,0,0,,,,,,"Well, I don’t want to know who it is. You guys can do it very confidentially. You can sign a confidentiality agreement. That’s OK. I don’t need to know names. But on this stuff that we’re talking about. We got all that information from the secretary of state."
+58:48,58.8,59.72,0.92,Mark Meadows,,,,,,,,,,,,- Tells Ryan to get to get together with Kurt after call and find way to that Trump's team can look at the data (is Meadows telling him to do something illegal?),"Yeah. So let me let me recommend, Ryan, if you and Kurt would get together, you know, when we get off of this phone call, if you could get together and work out a plan to address some of what we’ve got with your attorneys where we can we can actually look at the data. For example, Mr. Secretary, I can you say they were only two dead people who would vote. I can promise you there are more than that. And that may be what your investigation shows, but I can promise you there are more than that. But at the same time, I think it’s important that we go ahead and move expeditiously to try to do this and resolve it as quickly as we possibly can. And if that’s the good next step. But hopefully we can we can finish this phone call and go ahead and agree that the two of you will get together immediately."
+59:43,59.72,61.63,1.91,Donald Trump,"[
+{""topic"":""margin_won_by"",""number"":""400000"",""type"":""round""},
+{""topic"":""margin_won_by"",""number"":""400000"",""type"":""round""},
+{""topic"":""vote_margin"",""number"":""2000"",""type"":""round""}
+]",3,,,,1,0,3,,,,"- Insult
+  -- Stacey Abrams is laughing about you. She’s going around saying these guys are dumber than a rock.
+  -- You’re going to have people just not voting. They don’t want to vote. They hate the state, they hate the governor and they hate the secretary of state.
+  -- The only people that like you are people that will never vote for you. You know that Brad, right?
+- Brag
+  -- I only ran against her [Stacey Abrams] once. And that was with a guy named Brian Kemp and I beat her. And if I didn’t run, Brian wouldn’t have had even a shot.
+- Plead
+  -- And Brad. We just want the truth. It’s simple.
+  -- everyone’s going to look very good if the truth comes out.
+- Goes back to saying he won by 100s of 1000s of votes: ""the real truth is I won by 400,000 votes.""
+- Misspeak
+  -- says he needs less than 2,000 votes. Presumably meant to say 20,000.","Well why don’t my lawyers show you where you got the information. It will show the secretary of state, and you don’t even have to look at any names. We know want names. We don’t care. But we got that information from you. And Stacey Abrams is laughing about you. She’s going around saying these guys are dumber than a rock. What she’s done to this party is unbelievable, I tell ya. And I only ran against her once. And that was with a guy named Brian Kemp and I beat her. And if I didn’t run, Brian wouldn’t have had even a shot, either in the general or in the primary. He was dead, dead as a doornail. He never thought he had a shot at either one of them. What a schmuck I was. But that’s the way it is. That’s the way it is. I would like you … for the attorneys … I’d like you to perhaps meet with Ryan ideally tomorrow, because I think we should come to a resolution of this before the election. Otherwise you’re going to have people just not voting. They don’t want to vote. They hate the state, they hate the governor and they hate the secretary of state. I will tell you that right now. The only people that like you are people that will never vote for you. You know that Brad, right? They like you know, they like you. They can’t believe what they found. They want people like you. So, look, can you get together tomorrow? And Brad. We just want the truth. It’s simple.
+
+And everyone’s going to look very good if the truth comes out. It’s OK. It takes a little while but let the truth come out. And the real truth is I won by 400,000 votes. At least. That’s the real truth. But we don’t need 400,000. We need less than 2,000 votes. And are you guys able to meet tomorrow Ryan?"
+61:38,61.63,61.78,0.15,Ryan Germany,,,,,,,,,,,,"- Is evasive on if he can meet tomorrow, says he has to talk to lawyer in case first","Um, I’ll get with Chris, the lawyer representing us and the case, and see when he can get together with Kurt."
+61:47,61.78,61.9,0.12,Brad Raffensperger,,,,,,,,,,,,,"Ryan will be in touch with the other attorney on this call, Mr. Meadows. Thank you President Trump for your time."
+61:54,61.9,62,0.1,Donald Trump,,,,,,0,0,,,,,"- Ends by saying thank you to Brad, Ryan, everybody","OK, thank you, Brad. Thank you, Ryan. Thank you. Thank you, everybody. Thank you very much. Bye."
